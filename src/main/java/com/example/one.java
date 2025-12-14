@@ -13,7 +13,7 @@ import java.util.Scanner;
  * 同步一下 哈哈哈哈
  * </p>
  */
-public class one {   公共类1 {
+public class one {
 
     /**
      * 程序入口点。
